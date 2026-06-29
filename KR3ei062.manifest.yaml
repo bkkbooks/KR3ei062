@@ -1,0 +1,195 @@
+canonical_identifier: bkk:krp/KR3ei062/v1
+canonical_location: https://kanripo.org/bkk/KR3ei062/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 產論
+  identifiers:
+    krp: KR3ei062
+  tags:
+    kr-categories: KR3ei
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei062.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei062_000.yaml, hash: 'sha256:027146289d260df3e513bcc3c5b45d218b55bb8c0c697bf2b00272eba31208ca'}
+  - {seq: 1, filename: KR3ei062_001.yaml, hash: 'sha256:5a4bc42933873e708f9d5c680ef9d27b4bad626b7808557cd91ff2a42d03267e'}
+  - {seq: 2, filename: KR3ei062_002.yaml, hash: 'sha256:748db02792a2784c8a7433ebcf4c4d62550df60e735cd2568623c9810dab6415'}
+  - {seq: 3, filename: KR3ei062_003.yaml, hash: 'sha256:29901b0b55f35afc6dd407d44b2ef8591572e5bde8100a849373a56054f186ff'}
+  - {seq: 4, filename: KR3ei062_004.yaml, hash: 'sha256:15873050648e873963b614d90fbae98c3d6a5c617936f46bb69683bf3fec73ef'}
+  - {seq: 0, filename: KR3ei062_000.yaml, hash: 'sha256:027146289d260df3e513bcc3c5b45d218b55bb8c0c697bf2b00272eba31208ca'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei062_000.markers.yaml, hash: 'sha256:183fc0a0c03937d4273860fe8fb9d542eb77d410581a588e11532a77a8a77ba9'}
+  - {seq: 1, role: markers, filename: assets/KR3ei062_001.markers.yaml, hash: 'sha256:d47ac289539214c90fa33aad8b7f6d8e46f620938e5bf4e78e0a81ca18a27386'}
+  - {seq: 2, role: markers, filename: assets/KR3ei062_002.markers.yaml, hash: 'sha256:e8ea48b0c9f3294c127efc6288fece41b6e424e9b250bda6a7642ed687aa1d75'}
+  - {seq: 3, role: markers, filename: assets/KR3ei062_003.markers.yaml, hash: 'sha256:055ce8c059d962f3cc7407ac8097540d54058786c20fac3bd1b0933c82302147'}
+  - {seq: 4, role: markers, filename: assets/KR3ei062_004.markers.yaml, hash: 'sha256:6bc7a8d1e0dfb3b1a42a4a7fd59aec5a757eaa938124e6f2350bfae2b815e1b6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei062_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 700
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei062_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4517
+  label: 卷一孕育
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei062_jc_001-d3d2
+    span:
+    - body
+    - 4
+    - 1797
+  label: 一緒論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei062_jc_001-d3d3
+    span:
+    - body
+    - 1797
+    - 3670
+  label: 二治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei062_jc_001-d3d4
+    span:
+    - body
+    - 3670
+    - 4517
+  label: 三治術
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei062_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 3740
+  label: 卷二占房
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei062_jc_002-d4d2
+    span:
+    - body
+    - 4
+    - 1612
+  label: 一緒論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei062_jc_002-d4d3
+    span:
+    - body
+    - 1612
+    - 2162
+  label: 二治法
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei062_jc_002-d4d4
+    span:
+    - body
+    - 2162
+    - 3740
+  label: 三治術
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei062_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3794
+  label: 卷三已娩
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei062_jc_003-d5d2
+    span:
+    - body
+    - 4
+    - 1018
+  label: 一諸論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei062_jc_003-d5d3
+    span:
+    - body
+    - 1018
+    - 2530
+  label: 二治法
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei062_jc_003-d5d4
+    span:
+    - body
+    - 2530
+    - 3794
+  label: 三治術
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei062_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 1746
+  label: 卷四產椅論
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ei062_jc_004-d6d4
+    span:
+    - body
+    - 849
+    - 1746
+  label: 鎮帶論
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei062_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 3821
+  label: 附錄子玄子治驗四十八則
+  type: section
+  level: 1
+hash: sha256:90e57866e5fb6c8c20e29e0bf47d3e541c794f65005dff486d3b558472ea09fe
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
